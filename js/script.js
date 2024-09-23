@@ -6,6 +6,10 @@ let summerMonth
 let myLibraryFunction
 
 //STEP 2
+let litNum = 5.38
+let litString = 'Quack'
+let litBool = true  
+let litNullMe = null 
 
 //STEP 3
 
