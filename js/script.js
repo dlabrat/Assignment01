@@ -57,13 +57,14 @@
 //console.log(thatOne)
 
 //STEP 10
-let Me 
-console.log(typeof 'quack')
-console.log(typeof 88)
-console.log(typeof true) 
-console.log(typeof Me)
+//let Me 
+//console.log(typeof 'quack')
+//console.log(typeof 88)
+//console.log(typeof true) 
+//console.log(typeof Me)
 
 //STEP 11
+alert('Hello Zak Ruvalcaba, '+ 'welcome to the JavaScript class!')
 
 //STEP 12
 
