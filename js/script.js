@@ -47,16 +47,21 @@
 
 //STEP 8
 //No, use forward slashed for the inner quote marks. 
-let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"'
-console.log(someString)
+//let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"'
+//console.log(someString)
 
 //STEP 9
-let thisOne = null
-let thatOne
-console.log(thisOne)
-console.log(thatOne)
+//let thisOne = null
+//let thatOne
+//console.log(thisOne)
+//console.log(thatOne)
 
 //STEP 10
+let Me 
+console.log(typeof 'quack')
+console.log(typeof 88)
+console.log(typeof true) 
+console.log(typeof Me)
 
 //STEP 11
 
