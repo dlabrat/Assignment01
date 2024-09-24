@@ -2,7 +2,7 @@
 //let someMonth
 //function theMonth()
 //let currentMonth
-/let summerMonth
+//let summerMonth
 //let myLibraryFunction
 
 //STEP 2
@@ -12,10 +12,19 @@
 //let litNullMe = null 
 
 //STEP 3
-let myNum = 4 + 10
-let r = 3 + myNum  
+//let myNum = 4 + 10
+//let r = 3 + myNum  
 
 //STEP 4
+let firstName
+let lastName
+let strAddress
+let strCity
+let strState
+let zipCode
+let yourAge
+let referralSource
+let mayWeContactYou
 
 //STEP 5
 
