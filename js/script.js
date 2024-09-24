@@ -32,9 +32,9 @@
 //let yourAge = 32
 
 //STEP 6
-let myTitle = 'test'
-prompt('Hello there')
-document.write(myTitle)
+let myTitle = 'Added here '
+myTitle = myTitle + 55
+console.log(myTitle)
 
 //STEP 7
 
