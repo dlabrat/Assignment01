@@ -101,11 +101,14 @@
 //console.log(x)
 
 //STEP 19
-let x = 20
-x *= 5
-console.log(x)
+//let x = 20
+//x *= 5
+//console.log(x)
 
 //STEP 20
+let x = 20 % 3
+x /= 1
+console.log(x)
 
 //STEP 21
 
