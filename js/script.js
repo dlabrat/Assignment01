@@ -81,11 +81,14 @@
 //alert('Hello ' + Name + '. \nWelcome to the ' + Course +' class!')
 
 //STEP 15
-let Course = "JavaScript"
-let Name = prompt('What is your name? ')
-alert('Hello ' + Name + '. \nWelcome to the ' + Course +' class!')
+//let Course = "JavaScript"
+//let Name = prompt('What is your name? ')
+//alert('Hello ' + Name + '. \nWelcome to the ' + Course +' class!')
 
 //STEP 16
+let Course = prompt('What class are you taking? ')
+let Name = prompt('What is your name? ')
+alert('Hello ' + Name + '. \nWelcome to the ' + Course +' class!')
 
 //STEP 17
 
