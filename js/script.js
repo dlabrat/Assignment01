@@ -86,11 +86,14 @@
 //alert('Hello ' + Name + '. \nWelcome to the ' + Course +' class!')
 
 //STEP 16
-let Course = prompt('What class are you taking? ')
-let Name = prompt('What is your name? ')
-alert('Hello ' + Name + '. \nWelcome to the ' + Course +' class!')
+//let Course = prompt('What class are you taking? ')
+//let Name = prompt('What is your name? ')
+//alert('Hello ' + Name + '. \nWelcome to the ' + Course +' class!')
 
 //STEP 17
+let x = 10
+let y = 20
+console.log(x+y)
 
 //STEP 18
 
