@@ -111,9 +111,11 @@
 //console.log(x)
 
 //STEP 21
-let Test
-Test = 5 <= 9
-console.log(Test)
+//let Test
+//Test = 5 <= 9
+//console.log(Test)
 
 //STEP 22
-
+let Test
+Test = 98 != 98
+console.log(Test)
