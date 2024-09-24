@@ -91,11 +91,14 @@
 //alert('Hello ' + Name + '. \nWelcome to the ' + Course +' class!')
 
 //STEP 17
-let x = 10
-let y = 20
-console.log(x+y)
+//let x = 10
+//let y = 20
+//console.log(x+y)
 
 //STEP 18
+let x = 20
+x += 20 
+console.log(x)
 
 //STEP 19
 
