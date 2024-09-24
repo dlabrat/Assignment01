@@ -37,15 +37,18 @@
 //console.log(myTitle)
 
 //STEP 7
-let firstResult
-let secondResult
+//let firstResult
+//let secondResult
 
-firstResult = 'Together now ' + 98
-secondResult = 35 + true
-console.log(firstResult)
-console.log(secondResult)
+//firstResult = 'Together now ' + 98
+//secondResult = 35 + true
+//console.log(firstResult)
+//console.log(secondResult)
 
 //STEP 8
+//No, use forward slashed for the inner quote marks. 
+let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"'
+console.log(someString)
 
 //STEP 9
 
