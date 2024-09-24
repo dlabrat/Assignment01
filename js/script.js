@@ -16,19 +16,25 @@
 //let r = 3 + myNum  
 
 //STEP 4
-let firstName
-let lastName
-let strAddress
-let strCity
-let strState
-let zipCode
-let yourAge
-let referralSource
-let mayWeContactYou
+//let firstName
+//let lastName
+//let strAddress
+//let strCity
+//let strState
+//let zipCode
+//let yourAge
+//let referralSource
+//let mayWeContactYou
 
 //STEP 5
+//let strState = 'CA'
+//let zipCode = 92126
+//let yourAge = 32
 
 //STEP 6
+let myTitle = 'test'
+prompt('Hello there')
+document.write(myTitle)
 
 //STEP 7
 
