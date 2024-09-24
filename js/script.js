@@ -1,17 +1,19 @@
 //STEP 1
-let someMonth
-function theMonth()
-let currentMonth
-let summerMonth
-let myLibraryFunction
+//let someMonth
+//function theMonth()
+//let currentMonth
+/let summerMonth
+//let myLibraryFunction
 
 //STEP 2
-let litNum = 5.38
-let litString = 'Quack'
-let litBool = true  
-let litNullMe = null 
+//let litNum = 5.38
+//let litString = 'Quack'
+//let litBool = true  
+//let litNullMe = null 
 
 //STEP 3
+let myNum = 4 + 10
+let r = 3 + myNum  
 
 //STEP 4
 
