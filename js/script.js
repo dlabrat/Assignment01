@@ -32,11 +32,18 @@
 //let yourAge = 32
 
 //STEP 6
-let myTitle = 'Added here '
-myTitle = myTitle + 55
-console.log(myTitle)
+//let myTitle = 'Added here '
+//myTitle = myTitle + 55
+//console.log(myTitle)
 
 //STEP 7
+let firstResult
+let secondResult
+
+firstResult = 'Together now ' + 98
+secondResult = 35 + true
+console.log(firstResult)
+console.log(secondResult)
 
 //STEP 8
 
