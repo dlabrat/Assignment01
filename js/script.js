@@ -51,6 +51,10 @@ let someString = 'Who once said, \"Only two things are infinite, the universe an
 console.log(someString)
 
 //STEP 9
+let thisOne = null
+let thatOne
+console.log(thisOne)
+console.log(thatOne)
 
 //STEP 10
 
