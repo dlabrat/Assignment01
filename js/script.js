@@ -64,9 +64,11 @@
 //console.log(typeof Me)
 
 //STEP 11
-alert('Hello Zak Ruvalcaba, '+ 'welcome to the JavaScript class!')
+//alert('Hello Zak Ruvalcaba, '+ 'welcome to the JavaScript class!')
 
 //STEP 12
+let Name = 'Denise Christine'
+alert('Hello ' + Name + ' welcome to the JavaScript class!')
 
 //STEP 13
 
